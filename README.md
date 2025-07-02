@@ -1,1 +1,1 @@
-# Pickel-MC
+!![Logo](./.github/assets/logo.png)
