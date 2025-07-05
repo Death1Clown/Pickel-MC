@@ -1,6 +1,6 @@
 ![Logo](./.github/assets/logo.png)
 ###### Pickle MC comes with a wide verioty of plugins and addons.
-[![Discord](https://discordapp.com/api/guilds/1375519482017218663/widget.png?style=shield)](https://discord.gg/dw82dD9Bq6)
+[![Discord](https://discordapp.com/api/guilds/1375519482017218663/widget.png?style=shield)](https://discord.gg/dw82dD9Bq6) ![Discord Bots](https://top.gg/api/v1/widgets/small/votes/727106797896794112?hideAvatar=true)
 # List of Plugins and Addons
 ###### Addons
 - **PickleMC Utilities** | Admin Addon for [Script](script/download.md)
